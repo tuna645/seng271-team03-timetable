@@ -22,17 +22,8 @@ A Java-based course scheduling system developed for the Software Engineering Dep
 
 ---
 
-## How to Compile and Run
 
 ### Prerequisites
 * Java JDK 21 or 25
 
-### Terminal Commands
-Run the following commands from the root directory of the project:
-
-```bash
-# 1. Compile all Java files to the out folder
-javac -d out src/*.java
-
-# 2. Run the application
-java -cp out Main
+#
